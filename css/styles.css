@@ -411,7 +411,7 @@ body {
 	
  }
  .card-border {
-	padding: 20 24;
+	padding: 20px 24px;
 	border: 1px solid #EEEEEE;
 	border-top: none;
  }
