@@ -344,10 +344,16 @@ body {
 	padding-right: 8px;
   }
  .description {
+	margin-bottom: 20px;
+	padding-right: 24px;
+	padding-left: 24px;
 	color: var(--text-color);
  }
 
  .project-title {
+	    margin-bottom: 4px;
+		padding-left: 24px;
+		padding-right: 24px;
 		font-size: 18px;
 		line-height: 2;
 	    letter-spacing: 0.06em;
