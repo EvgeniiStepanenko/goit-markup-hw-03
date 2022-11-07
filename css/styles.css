@@ -367,4 +367,6 @@ body {
 	flex-basis: calc(100% / 3) - 20px;
 	margin-top: 30px;
 	margin-left: 30px;
+
+	border-bottom: 1px solid #EEEEEE;
  }
