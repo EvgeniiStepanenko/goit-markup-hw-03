@@ -187,6 +187,7 @@ body {
 
 
 .section {
+	padding-top: 94px;
 	padding-bottom: 94px;
 }
 
@@ -208,7 +209,7 @@ body {
 
 .benefits-list {
 	display: flex;
-	padding-top: 94px;
+	
 	
 
 }
@@ -219,7 +220,7 @@ body {
 }
 
 .list-item-title {
-    padding-bottom: 10px;
+    margin-bottom: 10px;
 
 		font-size: 14px;
 		line-height: 1.1428;
@@ -234,7 +235,9 @@ body {
 	    color: var(--text-color);
 }
 /* чим ми займаємось */
-
+.work {
+	padding-top: 0;
+}
 .work-title, .team-title {
 	    
 		font-size: 36px;
@@ -243,7 +246,7 @@ body {
 		
 }
 .work-title {
-	padding-bottom: 50px;
+	margin-bottom: 50px;
 }
 
 .work-list {
@@ -306,6 +309,7 @@ body {
  .footer .logo {
 	display: inline-block;
 	margin-bottom: 20px;
+	margin-right: 0;
 
  }
 
@@ -345,8 +349,6 @@ body {
   .btn-list {
 	display: flex;
 	justify-content: center;
-
-	margin-top: 94px;
 	margin-bottom: 34px;
   }
 
